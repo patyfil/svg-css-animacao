@@ -1,6 +1,11 @@
 # Vetores e Animação com SVG: trabalhando com CSS e JavaScript - Alura (CH: 6hs)
 ![curso](https://user-images.githubusercontent.com/41968938/229373937-a30ffb48-a948-403b-b539-f966f879ddf4.jpg)
 
+<div align="center">
+<img alt="img projeto" src="assets/projeto.gif">
+</div>
+
+
 ## Aulas
 Conhecendo o SVG e algumas ferramentas - 11 / 11 - 48min  
 
